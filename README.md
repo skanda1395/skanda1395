@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sunil Skanda.
+- 👋 Hi, I’m Sunil Subrahmanyam.
 - 👀 I’m interested in both frontend and backend side of a web application.
 - 🌱 I’m currently learning React, Websockets, C++ etc.
 - 💞️ I’m looking to collaborate on projects that will help a lot of people, be it developers or end users.  
