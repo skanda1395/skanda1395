@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sunil Subrahmanyam.
 - 👀 I’m interested in both frontend and backend side of a web application.
 - 🌱 I’m currently working/learning React, Websockets, C++ etc.
-- ⚒️ I’m looking to collaborate on projects that will help a lot of people, be it developers or end users.  
+- ⚒️ I like to work on projects that will help a lot of people, be it developers or end users.  
 - 📫 How to reach me => skanda1395[at]gmail[dot]com
 
 <!---
