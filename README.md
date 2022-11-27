@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning React, Websockets, C++ etc.
 - ⚒️ I like to work on projects that will help a lot of people, be it developers or end users.  
 - 📫 How to reach me => 
-      - skanda1395[at]gmail[dot]com
+      * Mail: skanda1395[at]gmail[dot]com
+      * [LinkedIn](https://www.linkedin.com/in/sunil-subrahmanyam) 
 
 <!---
 skanda1395/skanda1395 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
