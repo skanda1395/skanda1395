@@ -2,7 +2,7 @@
 - 👀 I’m interested in both frontend and backend side of a web application.
 - 🌱 I’m currently learning React, Websockets, C++ etc.
 - ⚒️ I like to work on projects that will help a lot of people, be it developers or end users.  
-- 📫 How to reach me => [LinkedIn](https://www.linkedin.com/in/sunil-subrahmanyam) 
+- 📫 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/sunil-subrahmanyam) 
 
 <!---
 skanda1395/skanda1395 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
